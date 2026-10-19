@@ -29,4 +29,4 @@ This project analyzes publicly available hospital performance data from the Cent
 ## Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/d.lynch/viz/cmshealthdashboard_py/HospitalClinicalandTimelyCare)
 
-[Click here to open the Dashboard Created on DataBricks](CMSDataHospitalAnalysisDBDashboard.pdf)
+Dashboard Created on DataBricks is named CMSDataHospitalAnalysisDBDashboard.pdf
